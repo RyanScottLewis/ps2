@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+  <link href="oplv8.css" rel="stylesheet" type="text/css">
+ <SCRIPT LANGUAGE="JavaScript" SRC="main.js"></SCRIPT>
+  <script type="text/javascript" src="checkall.js"></script>
+  <script type="text/javascript" src="menu.js">
+  </script>
+  <title>Official OPLv0.8 User Guides</title>
+  </head>
+<body style="color: rgb(255, 255, 255);" alink="#ffff00" link="#ffffff"
+ vlink="#606060">
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+       <td>
+
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody>
+          <tr>
+            <td bgcolor="#000000">
+           <a name="top" id="top" ></a><center> <a href="http://sksapps.com"><img src="http://jnabk.sksapps.com/opl_main/opl_sks_logo.gif" alt="OPL Ps2 Loader" border="0" /></a></center>
+            <div align="center">
+           <script type="text/javascript"><!--
+google_ad_client = "pub-2383330015860694";
+/* 728x15, OPL Mini Bar */
+google_ad_slot = "3129295674";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+            <br>
+            </div></td>
+          </tr>
+        </tbody>
+      </table>
+      <hr>
+      <table style="width: 100%; text-align: center;" border="0"
+ cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td
+ style="width: 100%; text-align: center; vertical-align: top;"><!-- Menu bar. -->
+            <div class="menuBar" style="width: 100%;">
+<a class="menuButton" href="http://opl.sksapps.com/" onmouseover="return buttonMouseover(event, 'null');">Main Index</a>
+ <a
+ class="menuButton" href="index.php"
+ onmouseover="return buttonMouseover(event, 'null');">Home</a> <a
+ class="menuButton" href=""
+ onmouseover="return buttonMouseover(event, 'config');">Settings</a> <a
+ class="menuButton" href=""
+ onmouseover="return buttonMouseover(event, 'usb');">USB</a> <a
+ class="menuButton" href=""
+ onmouseover="return buttonMouseover(event, 'hdd');">HDD</a> <a
+ class="menuButton" href=""
+ onmouseover="return buttonMouseover(event, 'net');">Network</a> <a
+ class="menuButton" href=""
+ onmouseover="return buttonMouseover(event, 'igr');">IGR</a> <a
+ class="menuButton" href=""
+ onmouseover="return buttonMouseover(event, 'art');">Download Gallery</a>
+            <a class="menuButton" href=""
+ onmouseover="return buttonMouseover(event, 'vmc');">VMC</a> <a
+ class="menuButton" href=""
+ onmouseover="return buttonMouseover(event, 'forum');">Forums</a> 
+ 
+ </div>
+<!-- Main menus. -->
+            <div id="null" class="menu"
+ onmouseover="menuMouseover(event)"> </div>
+
+            <div id="config" class="menu"> <a class="menuItem"
+ href="index.php?opl=config.html">General settings</a> <a class="menuItem"
+ href="index.php?opl=display.html">Display settings</a> <a class="menuItem"
+ href="index.php?opl=config_net.html">Network settings</a> <a class="menuItem"
+ href="index.php?opl=config_nas.html">Network Attached
+Storage</a> <a class="menuItem" href="index.php?opl=hdlsvr.html">HDL Server</a> </div>
+            <div id="usb" class="menu"
+ onmouseover="menuMouseover(event)"> <a class="menuItem"
+ href="index.php?opl=usb.html">About USB Games</a> <a class="menuItem"
+ href="index.php?opl=usb_install.html">Formatting &amp; Installing</a> <a
+ class="menuItem" href="index.php?opl=usb_list.html">USB Compatibility
+List</a> </div>
+            <div id="hdd" class="menu"> <a class="menuItem"
+ href="index.php?opl=hdd.html">About HDD Games</a> <a class="menuItem"
+ href="index.php?opl=hdd_install.html">Formatting &amp; Installing</a> <a
+ class="menuItem" href="index.php?opl=hdd_list.html">HDD Compatibility List</a> </div>
+            <div id="net" class="menu"> <a class="menuItem"
+ href="index.php?opl=net.html">About Network Games</a> <a class="menuItem"
+ href="index.php?opl=net_install.html">Formatting &amp; Installing</a> <a
+ class="menuItem" href="index.php?opl=net_list.html">Network Compatibility List</a> </div>
+            <div id="igr" class="menu"> <a class="menuItem"
+ href="index.php?opl=igr.html">About IGR</a> <a class="menuItem" href="index.php?opl=igr_list.html">IGR
+Compatibility List</a> </div>
+            <div id="art" class="menu"> <a class="menuItem"
+ href="index.php?opl=apps_cov.html">App Cover Art</a> <a class="menuItem"
+ href="index.php?opl=cover.html">Game Cover Art</a> <a class="menuItem"
+ href="index.php?opl=icon.html">Icon Art</a> <a class="menuItem" href="index.php?opl=bgs.html">Background
+Art</a> <a class="menuItem" href="index.php?opl=thm.html">Themes</a> <a
+ class="menuItem" href="index.php?opl=art.html">Creating Art</a> <a class="menuItem"
+ href="index.php?opl=theme.html">Creating Themes</a> </div>
+            <div id="vmc" class="menu"> <a class="menuItem"
+ href="index.php?opl=vmc.html">About VMC</a> </div>
+            <div id="forum" class="menu"><a class="menuItem"
+ href="http://forums.sksapps.com">sksapps</a>  <a class="menuItem"
+ href="http://www.psx-scene.com">psx-scene</a> </div>
+            </td>
+            
+          </tr>
+        </tbody>
+      </table>
+      <div>
+<!-- content table -->
+
+<!-- content table --> <br>
+      <br>
+      <div style="text-align: center;"><big><span
+ style="font-weight: bold;">Welcome to the
+OPL v0.8&nbsp; User Guides</span></big><br>
+      </div>
+      <br>
+      <br>
+      <table
+ style="margin-left: auto; background-image: url(table.png); margin-right: auto; width: 95%; text-align: left;"
+ border="0" cellpadding="5" cellspacing="2">
+        <tbody>
+          <tr>
+            <td style="vertical-align: top;"><br>
+Open PS2 Loader&nbsp;&nbsp; (<span style="color: rgb(51, 255, 51);">OPL</span>)
+is an application designed to allow you to play your PS2 games from an
+Internal HDD, a
+connected USB device or a networked PC from either a PS2 console or a
+PS3 console that supports PS2 Backwards Compatibility. PS3 doesnt
+support Internal HDD for PS2 games.<br>
+You will need to use specialized software designed to install those
+games to your devices which you can backup right from your game discs
+or
+ISO's stored on your PC. Use the NavBar above to find information on
+formatting, game installation, compatibility and more.<br>
+            <br>
+            <br>
+A new GUI has been implimented with many new options and features, so
+older OPL version configurations will not be compatible with OPL v0.8.<br>
+            <br>
+            <span style="font-weight: bold;">Features:</span><br>
+            <br>
+            <span style="color: rgb(51, 255, 51);">Version 0.8 </span>-
+            <a style="color: rgb(255, 255, 255);"
+ href="http://opl.psx-scene.com/8/OpenPS2Loader_0.8.zip">Download</a><br>
+            <ul>
+              <b>Loader</b> <li>Many new game compatibility fixes</li>
+              <li>Added loading support for ISO format (SMB and USB)<br>
+              </li>
+              <li>Improved NAS support for more devices</li>
+              <li>Secure authentication for the SMB module (<span
+ style="font-style: italic;">to enable security and write access</span>)<br>
+              </li>
+              <li>Various improvements to Network support&nbsp; (<span
+ style="font-style: italic;">NBSS keep-alive, small ingame speed-up</span>)<br>
+              </li>
+              <li>Added ELF Loader to launch other Apps <br>
+              </li>
+              <li>Added compatibility for new external USB HDD with
+1k/2k/4k cluster file</li>
+              <li>Added full compatibility for old PS2 consoles (10k
+JAP)<br>
+              </li>
+            </ul>
+            <br>
+            <ul>
+              <b>GUI (Graphical User Interface)</b> <li>Re-Designed
+Display</li>
+              <li>Supports Cover Art</li>
+              <li>Fully Customizable Theme support</li>
+              <li>Support to Load/Save OPL configurations from multiple
+devices (USB and HDD)<br>
+              </li>
+              <li>Added VMC (Virtual Memory Card) support</li>
+              <li>Added HDL Server for HDD game installation over
+network</li>
+              <li>Added "rename" and "delete" functionalities for games
+lists</li>
+              <li>childproof mode (<span style="font-style: italic;">prevents
+configuration change from being made</span>)</li>
+              <li>Added&nbsp; ability to refresh game lists<br>
+              </li>
+            </ul>
+            <br>
+            <span style="color: rgb(0, 102, 0);"></span><br>
+            <br>
+            <span style="font-weight: bold; text-decoration: underline;">How
+to use:</span><br>
+            <br>
+            <span style="color: rgb(51, 204, 255);">PS2</span><br>
+&nbsp;<br>
+Boot the OPS2LD.ELF from any homebrew ELF Launching app like&nbsp; Free
+McBoot or&nbsp; uLaunchELF. Visit the forums for more info on ELF
+Launchers.<br>
+            <br>
+            <span style="color: rgb(51, 204, 255);">PS3 </span><br>
+            <br>
+You need to have a retail SwapMagic 3.6+ or 3.8 disc. (currently there
+is no other option available)<br>
+            <br>
+The steps for loading Open PS2 Loader&nbsp; :<br>
+&nbsp;<br>
+&nbsp;1. Rename OPS2LD.ELF to SMBOOT0.ELF<br>
+&nbsp;2. Make a folder in the root of a USB device,&nbsp; name it
+SWAPMAGIC and copy the&nbsp; SMBOOT0.ELF into it.<br>
+&nbsp;3. Launch SwapMagic in your&nbsp; PS3 and press UP+L1,&nbsp; then
+Open PS2 Loader should start.<br>
+            <br>
+&nbsp;SwapMagic has 4 options to run an ELF file, so you can&nbsp; use
+any of them if you have other ELFs your also using with SwapMagic.<br>
+&nbsp; <br>
+            <ul>
+              <li>&nbsp; SMBOOT0.ELF = UP + L1</li>
+              <li>&nbsp; SMBOOT1.ELF = UP + L2</li>
+              <li>&nbsp; SMBOOT2.ELF = UP + R1</li>
+              <li>&nbsp; SMBOOT3.ELF = UP + R2 </li>
+            </ul>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+<!-- /content area table -->
+ <!-- /content area table -->
+<hr>
+      <div style="text-align: center;">
+      <table class="page" align="center" border="0" cellpadding="6"
+ cellspacing="0" width="100%">
+        <tbody>
+          <tr>
+            <td background="footer_bg.gif">
+<script type="text/javascript"><!--
+google_ad_client = "pub-2383330015860694";
+/* 728x90, OPL Bottom */
+google_ad_slot = "0752076332";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <div align="center">
+      <div class="smallfont" align="center">
+      
+       <p><a href="http://sksapps.com"  style="color:#00FF00">Applications</a> - <a href="http://forums.sksapps.com" style="color:#00FF00">Forums</a> - <a href="http://list.sksapps.com" style="color:#00FF00">List</a> - <a href="http://skins.sksapps.com" style="color:#00FF00">Skins</a> - <a href="http://forums.sksapps.com/arcade.php" style="color:#00FF00">Arcade</a></p>
+
+      
+        <p style="color:#00ff00;"><a href="#top" style="color:#00FF00">TOP</a><br />
+          Page generated in 0.00050 seconds.          <br />&copy; Copyright 2005 SKSApps.com <br />
+          All rights reserved. <br />
+          No affiliation with Sony Computer Entertainment.<br>
+          All posted material is Copyright of their respective owners.<br>
+        </p>
+</p>
+      </div>
+      </div>
+      </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
